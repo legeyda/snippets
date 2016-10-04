@@ -1,0 +1,25 @@
+consumer started
+consumer: consumed emit-1
+consumer: consumed emit-2
+consumer: consumed emit-3
+test: enable output
+consumer: print to stdout
+consumer: consumed emit-4
+consumer: print emit-4
+consumer: consumed emit-5
+consumer: print emit-5
+consumer: consumed emit-6
+consumer: print emit-6
+test: disable output
+consumer: swallow
+consumer: consumed emit-7
+consumer: consumed emit-8
+consumer: consumed emit-9
+test: enable output again
+consumer: print to stdout
+consumer: consumed emit-A
+consumer: print emit-A
+consumer: consumed emit-B
+consumer: print emit-B
+consumer: consumed emit-C
+consumer: print emit-C
